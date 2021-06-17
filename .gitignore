@@ -1,3 +1,18 @@
+# Config files, logs and stuff
+KristinaBot/modules/helper_funcs/temp.txt
+KristinaBot/elevated_users.json
+KristinaBot/config.py
+KristinaBot/config.ini
+log.txt
+kangsticker.png
+updates.txt
+
+# Session files
+KristinaBot/*.session
+KristinaBot/*.session-journal
+Masha.session-journal
+*.session
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +142,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VS code and shit
+*.pyc
+.idea/
+.project
+.pydevproject
+.directory
+.vscode
