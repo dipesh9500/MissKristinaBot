@@ -41,7 +41,7 @@ en_chats = []
 # AI Chat (C) 2020-2021 by @InukaAsith
 
 
-@KristinaBot.on_message(filters.command("chatbot") & ~filters.edited & ~filters.bot)
+@Kristina.on_message(filters.command("chatbot") & ~filters.edited & ~filters.bot)
 @admins_only
 async def hmm(_, message):
     global asuna_chats
@@ -85,7 +85,7 @@ async def hmm(_, message):
         )
 
 
-@KristinaBot.on_message(
+@Kristina.on_message(
     filters.text & filters.reply & ~filters.bot & ~filters.via_bot & ~filters.forwarded,
     group=2,
 )
@@ -189,7 +189,7 @@ async def hmm(client, message):
             print(e)
 
 
-@KristinaBot.on_message(filters.text & filters.private & filters.reply & ~filters.bot)
+@Kristina.on_message(filters.text & filters.private & filters.reply & ~filters.bot)
 async def inuka(client, message):
     msg = message.text
     if msg.startswith("/") or msg.startswith("@"):
@@ -259,7 +259,7 @@ async def inuka(client, message):
         print(e)
 
 
-@KristinaBot.on_message(
+@Kristina.on_message(
     filters.regex("Kristina|Kristina|huntinbots|hello|hi")
     & ~filters.bot
     & ~filters.via_bot
