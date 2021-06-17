@@ -39,7 +39,7 @@ async def fetch(url):
         return
 
 
-Kristina _chats = []
+kristina _chats = []
 en_chats = []
 
 @Kristina .on_message(
