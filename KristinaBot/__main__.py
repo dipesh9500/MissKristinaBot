@@ -347,7 +347,7 @@ def help_button(update, context):
 @run_async
 def kristina_about_callback(update, context):
     query = update.callback_query
-    if query.data == "Kristina_":
+    if query.data == "kristina_":
         query.message.edit_text(
             text=""" ℹ️ I'm *ᴋʀɪsᴛɪɴᴀ*, a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
