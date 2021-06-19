@@ -141,6 +141,12 @@ def list_chatbot_chats(update: Update, context: CallbackContext):
     update.effective_message.reply_text(text, parse_mode="HTML")
 
 
+__help__ = f"""
+Chatbot utilizes the CoffeeHouse API and allows Emcee to talk and provides a more interactive group chat experience.
+*Commands:* 
+*Admins only:*
+ ❍ /addchat*:* Enables Chatbot mode in the chat.
+ ❍ /rmchat*:* Disables Chatbot mode in the chat.
 
 ADD_CHAT_HANDLER = CommandHandler("addchat", add_chat)
 REMOVE_CHAT_HANDLER = CommandHandler("rmchat", remove_chat)
@@ -167,8 +173,3 @@ __handlers__ = [
     CHATBOT_HANDLER,
     LIST_CB_CHATS_HANDLER,
 ]
-help = """
- ❍ /chatbot - on/off : Enables and disables Ai Chat mode
-❍ /chatbot en : Enables English only chatbot
- """
-mod_name = "Chatbot"
