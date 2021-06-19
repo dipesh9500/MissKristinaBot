@@ -168,10 +168,7 @@ __handlers__ = [
     LIST_CB_CHATS_HANDLER,
 ]
 help = """
- Here is the help for the chatbot module:
-
-<b> Chatbot </b>
-Kristina AI 3.0 IS THE ONLY AI SYSTEM WHICH CAN DETECT & REPLY UPTO 200 LANGUAGES
- - /chatbot ON/OFF: Enables and disables AI Chat mode"""
- - /chatbot EN : Enables English only chatbot"""
-
+ ❍ /chatbot - on/off : Enables and disables Ai Chat mode
+❍ /chatbot en : Enables English only chatbot
+ """
+mod_name = "Chatbot"
