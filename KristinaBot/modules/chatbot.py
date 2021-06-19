@@ -142,11 +142,11 @@ def list_chatbot_chats(update: Update, context: CallbackContext):
 
 
 help = f"""
-Kristina  AI 3.0 IS THE ONLY AI SYSTEM WHICH CAN DETECT & REPLY UPTO 200 LANGUAGES.
+Chatbot utilizes the CoffeeHouse API and allows Kristina to talk and provides a more interactive group chat experience.
 *Commands:* 
 *Admins only:*
-❍ /chatbot - on/off : Enables and disables Ai Chat mode
-❍ /chatbot en : Enables English only chatbot
+ ❍ /chatbot *:* On/Off Enables & Disable Chatbot mode in the chat.
+ ❍ /chatbot *:* En Enables English only chatbot.
 """
 
 ADD_CHAT_HANDLER = CommandHandler("addchat", add_chat)
