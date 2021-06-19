@@ -147,6 +147,9 @@ Chatbot utilizes the CoffeeHouse API and allows Emcee to talk and provides a mor
 *Admins only:*
  ❍ /addchat*:* Enables Chatbot mode in the chat.
  ❍ /rmchat*:* Disables Chatbot mode in the chat.
+Reports bugs at @{SUPPORT_CHAT}
+[Powered by CoffeeHouse](https://coffeehouse.intellivoid.net) from @Intellivoid
+"""
 
 ADD_CHAT_HANDLER = CommandHandler("addchat", add_chat)
 REMOVE_CHAT_HANDLER = CommandHandler("rmchat", remove_chat)
