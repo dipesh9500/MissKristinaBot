@@ -92,6 +92,7 @@ buttons = [
     [
         InlineKeyboardButton(
             text="ᴏᴡɴᴇʀ", url=f"https://t.me/DIPESH_XD"
+    [
         InlineKeyboardButton(
             text="ʟᴏɢs", url=f"https://t.me/KRISTINALOGS"
         ),
