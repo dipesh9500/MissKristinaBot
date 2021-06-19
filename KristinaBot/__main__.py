@@ -86,6 +86,7 @@ buttons = [
                     ],
                    [
                        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="kristina_"
+                        '('
                      ],
                     [
                         InlineKeyboardButton(
