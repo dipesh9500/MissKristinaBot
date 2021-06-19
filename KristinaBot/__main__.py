@@ -98,9 +98,9 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ❔", callback_data="help_back"),
-    ],
-]
-
+                  
+                  ], 
+    ]
 
 HELP_STRINGS = """
 `ʜɪ.. ɪ'ᴍ` [ᴋʀɪsᴛɪɴᴀ🙋‍♀️](https://telegra.ph/file/47ab7aa054a25224cbac8.jpg) 
