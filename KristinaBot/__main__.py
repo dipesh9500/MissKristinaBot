@@ -98,7 +98,7 @@ buttons = [
     [
         InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ❔", callback_data="help_back"),
     ],
-]
+    [
 
 
 HELP_STRINGS = """
