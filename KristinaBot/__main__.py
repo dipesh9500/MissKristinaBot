@@ -80,25 +80,28 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ ᴋʀɪsᴛɪɴᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/MISS_KRISTINA_BOT?startgroup=true"),
-    ],
-    [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="kristina_"),
-    ],
-    [
-        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/KristinaSupportGroup"
-    ],
-    [
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url=f"https://t.me/DIPESH_XD"       
-    ],
-    [
-        InlineKeyboardButton(   text="ʟᴏɢs", url=f"https://t.me/KRISTINALOGS"            
-    ],
-    [
-        InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ❔", callback_data="help_back"),
+                        InlineKeyboardButton(
+                            text="➕️ ᴀᴅᴅ ᴋʀɪsᴛɪɴᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️",
+                            url="t.me/MISS_KRISTINA_BOT?startgroup=true")
+                    ],
+                   [
+                       InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="kristina_"
+                     ],
+                    [
+                        InlineKeyboardButton(
+                                 text="ꜱᴜᴘᴘᴏʀᴛ",
+                                 url=f"https://t.me/KristinaSupportGroup"),                   
+                       InlineKeyboardButton(
+                             text="ᴏᴡɴᴇʀ",
+                             url="https://t.me/DIPESH_XD")
+                     ],
+                     [
+                         InlineKeyboardButton(
+                             text="ʟᴏɢs",
+                          url=f"https://t.me/KRISTINALOGS"            
+                  InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ❔", callback_data="help_back"),
                   
-                  ], 
+                     ], 
     ]
 
 HELP_STRINGS = """
