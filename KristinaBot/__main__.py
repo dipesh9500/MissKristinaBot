@@ -88,7 +88,8 @@ buttons = [
         InlineKeyboardButton(
             text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/KristinaSupportGroup"
     [
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url=f"https://t.me/DIPESH_XD"
+        InlineKeyboardButton(
+            text="ᴏᴡɴᴇʀ", url=f"https://t.me/DIPESH_XD"
         InlineKeyboardButton(
             text="ʟᴏɢs", url=f"https://t.me/KRISTINALOGS"
         ),
