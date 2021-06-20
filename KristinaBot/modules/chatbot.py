@@ -141,13 +141,15 @@ def list_chatbot_chats(update: Update, context: CallbackContext):
     update.effective_message.reply_text(text, parse_mode="HTML")
 
 
-help = f"""
-Chatbot utilizes the CoffeeHouse API and allows Kristina to talk and provides a more interactive group chat experience.
-*Commands:* 
-*Admins only:*
- ❍ /chatbot *:* On/Off Enables & Disable Chatbot mode in the chat.
- ❍ /chatbot *:* En Enables English only chatbot.
+__help__ = """
+*Chatbot*
+Kristina  AI 3.0 IS THE ONLY AI SYSTEM WHICH CAN DETECT & REPLY UPTO 200 LANGUAGES
+  • /chatbot [ON/OFF]: Enables and disables AI Chat mode (EXCLUSIVE)
+  • /chatbot EN : Enables English only chatbot
+ 
 """
+
+__mod_name__ = "ChatBot"
 
 ADD_CHAT_HANDLER = CommandHandler("addchat", add_chat)
 REMOVE_CHAT_HANDLER = CommandHandler("rmchat", remove_chat)
