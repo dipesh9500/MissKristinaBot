@@ -12,7 +12,7 @@ r = telegraph.create_account(short_name=dipesh)
 auth_url = r["auth_url"]
 
 
-@register(pattern="^/t(xm|xt) ?(.*)")
+@register(pattern="^/t(gm|gt) ?(.*)")
 async def _(event):
     if event.fwd_from:
         return
