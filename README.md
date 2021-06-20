@@ -15,7 +15,7 @@
 </p>
 
 # 𝙈𝙄𝙎𝙎 𝙆𝙍𝙄𝙎𝙏𝙄𝙉𝘼
-Me On Telegram [✨𝙈𝙄𝙎𝙎 𝙆𝙍𝙄𝙎𝙏𝙄𝙉𝘼✨](https://t.me/MISS_KRISTINA_BOT)
+Me On Telegram [✨𝙈𝙄𝙎𝙎 𝙆𝙍𝙄𝙎𝙏𝙄𝙉𝘼✨](https://t.me/MissKristina_bot)
 
 ## How To Host
 The easiest way to deploy this Bot
