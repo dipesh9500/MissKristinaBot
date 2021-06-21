@@ -3,10 +3,10 @@
 </p>
 <p align="center">
     <a href="https://app.codacy.com/manual/xdipesh/MissKristina/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/xdipesh/MissKristina"> <img src="https://img.shields.io/github/repo-size/xdipesh/MissKristina?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/xdipesh/MissKristina/commits/prince"> <img src="https://img.shields.io/github/last-commit/xdipesh/MissKristina?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/xdipesh/MissKristina/issues"> <img src="https://img.shields.io/github/issues/xdipesh/MissKristina?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/xdipesh/MissKristina/network/members"> <img src="https://img.shields.io/github/forks/xdipesh/MissKristina?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/xdipesh/MissKristinaBot"> <img src="https://img.shields.io/github/repo-size/xdipesh/MissKristinaBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/xdipesh/MissKristinaBot/commits/prince"> <img src="https://img.shields.io/github/last-commit/xdipesh/MissKristinaBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/xdipesh/MissKristinaBot/issues"> <img src="https://img.shields.io/github/issues/xdipesh/MissKristinaBot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/xdipesh/MissKristinaBot/network/members"> <img src="https://img.shields.io/github/forks/xdipesh/MissKristinaBot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
